@@ -1,4 +1,4 @@
-require "/usr/local/bin/bundler/gem_tasks"
+require "/home/zhao/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0/bundler/gem_tasks"
 require "/usr/local/bin/rspec/core/rake_task"
 
 RSpec::Core::RakeTask.new(:spec)
